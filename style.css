@@ -1,0 +1,35 @@
+.gradient{
+/* Gradient background with the color #D7E5CA */
+background: linear-gradient(to bottom, #D7E5CA, #B2C4A5);
+
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+footer {
+  max-height: 100px;
+}
+.gradient-custom {
+  
+  background: #6a11cb;
+  
+  background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+  }
+  .nm{
+    color: black;
+  }
+
+  #nn{
+    text-align: center;
+    padding-top: 10px;
+  }
+
+#team ul li {
+  cursor: pointer;
+}
